@@ -67,7 +67,7 @@
     "karma-firefox-launcher": "2.x",
     "karma-jasmine": "5.x",
     "karma-safari-launcher": "1.x",
-    "pngcrush": "3.x",
+    "pngcrush": "^2.0.0",
     "rollup": "3.x",
     "svg2png": "4.x"
   },
